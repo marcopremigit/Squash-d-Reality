@@ -2,3 +2,19 @@
 Squash'd Reality/Library/
 
 Squash'd Reality/Temp/
+
+Squash'd Reality/Builds/
+
+Squash'd Reality/Assembly-CSharp.csproj
+
+Squash'd Reality/Squash'd Reality.sln
+
+Squash'd Reality/obj/
+
+*.csproj
+
+Squash'd Reality/.idea/
+
+*.cache
+
+Squash'd Reality/.vs/Squash'd Reality/v16/.suo

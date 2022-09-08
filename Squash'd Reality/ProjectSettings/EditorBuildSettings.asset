@@ -4,5 +4,38 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/_preload.unity
+    guid: 7245194d08e14474ab492bc6cbd8c62c
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 4d9dada41b5006f41b1c50072380c1ad
+  - enabled: 1
+    path: Assets/Scenes/LobbySelection.unity
+    guid: 375790b02b15fdb4f81ccedef11d88f5
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: e4b6da0027a09f34f93f7d461bd599b4
+  - enabled: 1
+    path: Assets/Scenes/CharactersSelection.unity
+    guid: 847e9c5af55ad114b873c788d8c3e4bb
+  - enabled: 1
+    path: Assets/Scenes/CookingTime.unity
+    guid: 29d988ad1fd4bba4fa3053181c03b155
+  - enabled: 1
+    path: Assets/Scenes/TrenchTime.unity
+    guid: c8e8aba2dea00454381572dbacd7dd9e
+  - enabled: 1
+    path: Assets/Scenes/DarkPuzzle.unity
+    guid: e80adef480a5ddc4b993d53e2bfb146e
+  - enabled: 1
+    path: Assets/Scenes/CollectiblesMenu.unity
+    guid: 83e83bce42a73c443a363d9da7d07fb1
+  - enabled: 1
+    path: Assets/Scenes/LeaderboardScene.unity
+    guid: d933668ded15bde4693aab76ceb885be
+  - enabled: 1
+    path: Assets/Scenes/ElectroPipeline.unity
+    guid: 595837b7d9606904892bce26e4e1c5e1
   m_configObjects: {}

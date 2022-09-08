@@ -3,7 +3,29 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - NetworkManager
+  - LocalPlayer
+  - UICharactersDescription
+  - Bullet
+  - Weapon
+  - UIManager
+  - DDOL
+  - Cauldron
+  - UICookingTime
+  - Enemy
+  - SpawnDirection
+  - Spawner
+  - Door
+  - DarkPuzzleMatchManager
+  - Hole
+  - Pipe
+  - Start
+  - UICollectibleManager
+  - UILeaderboard
+  - HoleStart
+  - HoleEnd
+  - MatchManager
   layers:
   - Default
   - TransparentFX
@@ -35,8 +57,8 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
+  - Hole
+  - Grabbable
   m_SortingLayers:
   - name: Default
     uniqueID: 0
